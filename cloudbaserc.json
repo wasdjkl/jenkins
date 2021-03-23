@@ -10,7 +10,7 @@
           "cpu": 1,
           "mem": 2,
           "serviceName": "jenkins",
-          "servicePath": "/",
+          "servicePath": "/jenkins",
           "localPath": "./",
           "uploadType": "package",
           "containerPort": 8080,
